@@ -11,13 +11,13 @@
 	<key>descender</key>
 	<integer>-492</integer>
 	<key>familyName</key>
-	<string>Hack</string>
+	<string>Hack Dok</string>
 	<key>italicAngle</key>
 	<real>-11</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
-	<string>Hack</string>
+	<string>Hack Dok</string>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
@@ -32,7 +32,7 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>Hack Bold Italic</string>
+	<string>Hack Dok Bold Italic</string>
 	<key>openTypeNameDescription</key>
 	<string></string>
 	<key>openTypeNameDesigner</key>
@@ -92,7 +92,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	<key>openTypeNameManufacturerURL</key>
 	<string>https://github.com/source-foundry</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Hack</string>
+	<string>Hack Dok</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Bold Italic</string>
 	<key>openTypeNameSampleText</key>
@@ -228,11 +228,11 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 		<integer>1520</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Hack-BoldItalic</string>
+	<string>HackDok-BoldItalic</string>
 	<key>postscriptForceBold</key>
 	<true/>
 	<key>postscriptFullName</key>
-	<string>Hack Bold Italic</string>
+	<string>Hack Dok Bold Italic</string>
 	<key>postscriptIsFixedPitch</key>
 	<true/>
 	<key>postscriptOtherBlues</key>
@@ -261,7 +261,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>styleMapFamilyName</key>
-	<string>Hack</string>
+	<string>Hack Dok</string>
 	<key>styleMapStyleName</key>
 	<string>bold italic</string>
 	<key>styleName</key>
